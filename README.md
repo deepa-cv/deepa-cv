@@ -52,9 +52,9 @@
   - <b><i> (https://github.com/Deepa17/OutReach) </b></i>
 
 <h2>📺 Work Experience </h2>
-- Technical Consultant Intern - Adobe Systems, Bengaluru, India (May 2022-Aug 2022)
-- Research and Development Intern - Hewlett Packard Enterprise, Bengaluru, India (Jan 2023-July 2023)
-- Cloud Developer-I - Hewlett Packard Enterprise, Bengaluru, India (Aug 2023-Present)
+- Technical Consultant Intern - Adobe Systems, Bengaluru, India (May 2022-Aug 2022) <br>
+- Research and Development Intern - Hewlett Packard Enterprise, Bengaluru, India (Jan 2023-July 2023) <br>
+- Cloud Developer-I - Hewlett Packard Enterprise, Bengaluru, India (Aug 2023-Present) <br>
 
 <h2> 🤳 Connect with me:</h2>
 <b> Email:</b> <i>deepachalapathi17@gmail.com</i>
