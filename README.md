@@ -43,11 +43,11 @@
   - As a part of Georgia Institue of Technology Hackathon,  we built a streamlit application to help individuals improve their mental health during the Covid-19 crisis.
   - <b><i> (https://github.com/ELITA04/Hacklytics-Streamlit) </b></i>
 
--<b>Coral reefs and how they have degraded over the years</b>
+- <b>Coral reefs and how they have degraded over the years</b>
   - This project aimed to visualize and draw insights from the Coral reef Temperature Anomaly Database data using Tableau
   - <b><i> (https://github.com/Deepa17/TSWD_Project) </b></i>
 
--<b>Outreach - A website connecting developers </b>
+- <b>Outreach - A website connecting developers </b>
   - This website is built using MERN stack. The users can register and login, and create their own profile, by including their education, job-experience, social medial handles and so on. There's also a functionality to put up posts and also delete them, if the user doesn't want them anymore. Other users can comment, like and unlike these posts and can have discussions too. 
   - <b><i> (https://github.com/Deepa17/OutReach) </b></i>
 
