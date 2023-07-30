@@ -19,10 +19,6 @@
   - The aim is to predict the student's score, rather than just predicting if he/she will pass or fail the course using ensemble learning techniques.
   - <b><i> (https://github.com/Deepa17/Cygnus) </b></i>
 
-- <b>San Francisco Crime Classification using Pyspark</b>
-  - This project aimed to classify crime using incremental Learning and streaming techniques to train models based on new data encountered using Python, and Pyspark.
-  - <b><i>(https://github.com/Deepa17/BD2_041_057_105_181) </b></i>
-
 - <b>Deploying CRUD operations based Flask Application using Microservices based Architecture </b>
   - Docker and Kubernetes are almost synonymous to 'microservices' as they help package and manage the different components of a project/ application, thereby easing up the implementation of a microservices architecture.
   - <b><i> (https://github.com/076-096-105-106-CloudHack-1/CloudHack_1) </b></i>
