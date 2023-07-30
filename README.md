@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/deepa-cv/">data science enthusiast</a> and  
   <a href="https://www.linkedin.com/in/deepa-cv/"> an avid learner! </a> </h1>
 
-<h2>👨‍💻 A sneak peek of a few projects I've worked on!</h2>
+<h2>👨‍💻 A sneak peek at a few projects I've worked on!</h2>
 
 - <b>Predicting Code Runtime Complexity using Static Analysis and Machine Learning</b>
   - The aim of this project is to predict the Big O Notation of a given algorithm in three different languages, C++, Java, and Python using Abstract Syntax Trees(AST), Graph Embeddings, Machine learning based classification algorithms and BiLSTM. This repo is private as of now as we are working on more improvements :)
