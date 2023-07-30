@@ -57,5 +57,5 @@
 - Cloud Developer-I - Hewlett Packard Enterprise, Bengaluru, India (Aug 2023-Present) <br>
 
 <h2> 🤳 Connect with me:</h2>
-<b> Email:</b> <i>deepachalapathi17@gmail.com</i>
+<b> Email:</b> <i>deepachalapathi17@gmail.com</i> <br>
 <b> LinkedIn:</b> <i>https://www.linkedin.com/in/deepa-cv/</i>
