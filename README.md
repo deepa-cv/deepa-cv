@@ -6,6 +6,7 @@
 
 - <b>Predicting Code Runtime Complexity using Static Analysis and Machine Learning</b>
   - The aim of this project is to predict the Big O Notation of a given algorithm in three different languages, C++, Java, and Python using Abstract Syntax Trees(AST), Graph Embeddings, Machine learning based classification algorithms and BiLSTM. This repo is private as of now as we are working on more improvements :)
+  - <b><i>(https://github.com/Capstone-B10-2022)</b></i>
 
 - <b>Kinship Recognition using Siamese Networks</b>
   - This project aimed to analyze whether two people are related by blood or not through their facial pictures using Siamese Networks. Tech included Python, Tensorflow 2.0, and Matplotlib
