@@ -1,6 +1,10 @@
 <h1>Hey there, I'm Deepa! 
 <h2>👨‍💻 A sneak peek at a few projects I've worked on!</h2>
 
+- <b>Catalog Indexing Engine</b>
+  - This project employs microservices based architecture and supports both structured and unstructured queries to retrive information from fashion catalogs, displaying the most relevant products to end users, with the aid of machine learning techniques
+  - <b><i>(https://github.com/BFB-PES/Catalog-Indexing-Engine)</b></i>
+
 - <b>Predicting Code Runtime Complexity using Static Analysis and Machine Learning</b>
   - The aim of this project is to predict the Big O Notation of a given algorithm in three different languages, C++, Java, and Python using Abstract Syntax Trees(AST), Graph Embeddings, Machine learning based classification algorithms and BiLSTM. This repo is private as of now as we are working on more improvements :)
   - <b><i>(https://github.com/Capstone-B10-2022)</b></i>
