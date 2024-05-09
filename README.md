@@ -1,7 +1,4 @@
-<h1>Hey there, I'm Deepa! <br/> I'm a <a href="https://github.com/Deepa17">programmer</a>, 
-  <a href="https://www.linkedin.com/in/deepa-cv/">data science enthusiast</a> and  
-  <a href="https://www.linkedin.com/in/deepa-cv/"> an avid learner! </a> </h1>
-
+<h1>Hey there, I'm Deepa! 
 <h2>👨‍💻 A sneak peek at a few projects I've worked on!</h2>
 
 - <b>Predicting Code Runtime Complexity using Static Analysis and Machine Learning</b>
