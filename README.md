@@ -19,7 +19,7 @@
   
 - <b>Predicting Student Assessment Marks to Prevent Student Attrition in MOOCs</b>
   - The aim is to predict the student's score, rather than just predicting if he/she will pass or fail the course using ensemble learning techniques.
-  - <b><i> (https://github.com/Deepa17/Cygnus) </b></i>
+  - <b><i> (https://github.com/Deepa17/Prevent-Student-Attriton) </b></i>
 
 - <b>Deploying CRUD operations based Flask Application using Microservices based Architecture </b>
   - Docker and Kubernetes are almost synonymous to 'microservices' as they help package and manage the different components of a project/ application, thereby easing up the implementation of a microservices architecture.
@@ -27,7 +27,7 @@
 
 - <b>San Francisco Crime Classification using Pyspark</b>
   - This project aimed to classify crime using incremental Learning and streaming techniques to train models based on new data encountered using Python, and Pyspark.
-  - <b><i> (https://github.com/Deepa17/BD2_041_057_105_181)
+  - <b><i> (https://github.com/Deepa17/Crime-Classification-on-streaming-data )
 
 - <b>I Feel U</b>
   - This was a mood-based song recommender in which facial emotion detection is done using a Convolutional Neural Network, Transfer Learning, and the songs from Spotify are recommended accordingly using Python, Tensorflow 2.0, and Matplotlib.
@@ -43,7 +43,7 @@
 
 - <b>Coral reefs and how they have degraded over the years</b>
   - This project aimed to visualize and draw insights from the Coral reef Temperature Anomaly Database data using Tableau
-  - <b><i> (https://github.com/Deepa17/TSWD_Project) </b></i>
+  - <b><i> (https://github.com/Deepa17/Visualising-Coral-Reef-Degradation) </b></i>
 
 - <b>Outreach - A website connecting developers </b>
   - This website is built using MERN stack. The users can register and login, and create their own profile, by including their education, job-experience, social medial handles and so on. There's also a functionality to put up posts and also delete them, if the user doesn't want them anymore. Other users can comment, like and unlike these posts and can have discussions too. 
