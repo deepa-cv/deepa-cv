@@ -15,11 +15,11 @@
 
 - <b>COVID Data Analysis and Information Retrieval</b>
   - This project aimed to recommend new insights to bolster the fight against COVID by generating new insights to keep up with the acceleration of literature related to the disease
-  - <b><i>(https://github.com/Deepa17/AIWIR_project)</b></i>
+  - <b><i>(https://github.com/deepa-cv/AIWIR_project)</b></i>
   
 - <b>Predicting Student Assessment Marks to Prevent Student Attrition in MOOCs</b>
   - The aim is to predict the student's score, rather than just predicting if he/she will pass or fail the course using ensemble learning techniques.
-  - <b><i> (https://github.com/Deepa17/Prevent-Student-Attriton) </b></i>
+  - <b><i> (https://github.com/deepa-cv/Prevent-Student-Attriton) </b></i>
 
 - <b>Deploying CRUD operations based Flask Application using Microservices based Architecture </b>
   - Docker and Kubernetes are almost synonymous to 'microservices' as they help package and manage the different components of a project/ application, thereby easing up the implementation of a microservices architecture.
@@ -27,7 +27,7 @@
 
 - <b>San Francisco Crime Classification using Pyspark</b>
   - This project aimed to classify crime using incremental Learning and streaming techniques to train models based on new data encountered using Python, and Pyspark.
-  - <b><i> (https://github.com/Deepa17/Crime-Classification-on-streaming-data )
+  - <b><i> (https://github.com/deepa-cv/Crime-Classification-on-streaming-data )
 
 - <b>I Feel U</b>
   - This was a mood-based song recommender in which facial emotion detection is done using a Convolutional Neural Network, Transfer Learning, and the songs from Spotify are recommended accordingly using Python, Tensorflow 2.0, and Matplotlib.
@@ -35,7 +35,7 @@
 
 - <b>Art Gallery Management System</b>
   - As a part of Database Management Systems, this project aimed to build a PSQL database to manage various aspects of an art gallery with a Python-based user interface using PSQL, and Python.
-  - <b><i> (https://github.com/Deepa17/DBMS_project) </b></i>
+  - <b><i> (https://github.com/deepa-cv/DBMS_project) </b></i>
 
 - <b>MoodBoost</b>
   - As a part of Georgia Institue of Technology Hackathon,  we built a streamlit application to help individuals improve their mental health during the Covid-19 crisis.
@@ -43,11 +43,11 @@
 
 - <b>Coral reefs and how they have degraded over the years</b>
   - This project aimed to visualize and draw insights from the Coral reef Temperature Anomaly Database data using Tableau
-  - <b><i> (https://github.com/Deepa17/Visualising-Coral-Reef-Degradation) </b></i>
+  - <b><i> (https://github.com/deepa-cv/Visualising-Coral-Reef-Degradation) </b></i>
 
 - <b>Outreach - A website connecting developers </b>
   - This website is built using MERN stack. The users can register and login, and create their own profile, by including their education, job-experience, social medial handles and so on. There's also a functionality to put up posts and also delete them, if the user doesn't want them anymore. Other users can comment, like and unlike these posts and can have discussions too. 
-  - <b><i> (https://github.com/Deepa17/OutReach) </b></i>
+  - <b><i> (https://github.com/deepa-cv/OutReach) </b></i>
   
 <h2>🏫 Education: </h2>
 PES UNIVERSITY, Bengaluru - Bachelors in Computer Science Engineering (2019-2023) <br>
