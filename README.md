@@ -50,7 +50,8 @@
   - <b><i> (https://github.com/deepa-cv/OutReach) </b></i>
   
 <h2>🏫 Education: </h2>
-PES UNIVERSITY, Bengaluru - Bachelors in Computer Science Engineering (2019-2023) <br>
+UW-Madison, Madison, WI, USA - Masters in Data Science (2024-2026) <br>
+PES UNIVERSITY, Bengaluru, KA, India - Bachelors in Computer Science Engineering (2019-2023) <br>
 
 <h2>🏢 Work Experience: </h2>
 - Technical Consultant Intern - Adobe Systems, Bengaluru, India (May 2022-Aug 2022) <br>
